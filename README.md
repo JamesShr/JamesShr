@@ -1,3 +1,5 @@
+<img src="./images/profile-banner.svg" alt="Decorative dark gold developer banner" width="100%" />
+
 # Hi, I'm James
 
 Backend Engineer focused on building practical services with Node.js, TypeScript, NestJS, and Nx.
@@ -36,9 +38,11 @@ For now, this profile keeps the project list quiet while those ideas mature.
 ## GitHub snapshot
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JamesShr&show_icons=true&hide_border=true&theme=default" alt="James's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesShr&layout=compact&langs_count=8&hide_border=true&theme=default" alt="James's top languages" />
+  <img height="165" src="./profile/stats.svg" alt="James's GitHub stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="James's top languages" />
 </p>
+
+These cards are generated into this repository by GitHub Actions, so the profile does not depend on loading the live card service every time someone opens the page.
 
 ## Connect
 
