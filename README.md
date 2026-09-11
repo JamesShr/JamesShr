@@ -1,4 +1,4 @@
-<img src="./images/profile-banner.svg" alt="Decorative dark gold developer banner" width="100%" />
+<img src="./images/profile-banner.svg" alt="Terminal style welcome banner" width="100%" />
 
 # Hi, I'm James
 
